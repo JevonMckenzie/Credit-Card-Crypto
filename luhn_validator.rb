@@ -35,3 +35,7 @@ module LuhnValidator
     # TODO: use the integers in nums_a to validate its last check digit
   end
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> f3ac83e2906f932fbc10b42c8276d9ae18d9c356
